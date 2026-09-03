@@ -3,6 +3,7 @@ index.backup-*.html
 _*.html
 _*.png
 _*.pdf
+_*.js
 *.tmp
 .DS_Store
 Thumbs.db
