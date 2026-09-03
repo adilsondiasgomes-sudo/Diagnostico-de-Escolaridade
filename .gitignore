@@ -1,0 +1,8 @@
+# Backups e arquivos temporários locais
+index.backup-*.html
+_*.html
+_*.png
+_*.pdf
+*.tmp
+.DS_Store
+Thumbs.db
